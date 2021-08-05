@@ -1,0 +1,34 @@
+src/*.exe
+src/emeraldcoin
+src/emeraldcoind
+src/test_emeraldcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.emeraldcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+emeraldcoin-qt
+Emeraldcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+emeraldcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
