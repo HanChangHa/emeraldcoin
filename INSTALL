@@ -1,0 +1,9 @@
+Building Emeraldcoin
+
+See doc/readme-qt.rst for instructions on building Emeraldcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Emeraldcoin.
+
+See doc/build-*.txt for instructions on building emeraldcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Emeraldcoin.
