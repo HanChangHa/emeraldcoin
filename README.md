@@ -11,5 +11,5 @@ What is Emeraldcoin?
 
 Emeraldcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
- - subsidy halves in 105.1k blocks (~2 years)
+ - subsidy halves in 1051.2k blocks (~2 years)
  - ~126.144 million total coins
