@@ -13,3 +13,5 @@ Emeraldcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
  - 1 minute block targets
  - subsidy halves in 1051.2k blocks (~2 years)
  - ~126.144 million total coins
+
+donation ETH 0xdA14d0eec9c7ce7985Ea36A35caDDe5Ae9A90884
